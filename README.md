@@ -71,3 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Note
 After Clone this code and install the required modules You have to generate an apikey of news and paste here ![image](https://user-images.githubusercontent.com/43082508/148637307-961d2459-44d6-4ef0-92b4-041cd866b6a8.png)
+
+### This is a front page
+![image](https://user-images.githubusercontent.com/43082508/148637379-0e2fbdee-01e5-4ba0-9d93-ad8c30a10fbe.png)
+
+### You can navigate to different categories after click on navbar
+![image](https://user-images.githubusercontent.com/43082508/148637406-1919c867-3260-46ce-9fdd-122a3e1a7c79.png)
+
+### If you see in small screen then It will see in correct way
+![image](https://user-images.githubusercontent.com/43082508/148637433-b2df58c8-45ed-4a01-bda2-4de1be815172.png)
